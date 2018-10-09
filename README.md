@@ -1,4 +1,4 @@
-# Tumour-cells-predicition-breast-cancer
+# Tumour-cells-prediction-breast-cancer
 Classification and Prediction of Tumour cells Breast Cancer 
 The dataset is given by Wisconsin Breast Cancer Diagnostics. It includes the measurements from the digitized images of needle aspirate of breast mass tissue.
 
